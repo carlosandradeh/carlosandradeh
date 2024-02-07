@@ -1,5 +1,10 @@
-### Hi there 👋
+# This is Me!!!
 
+My name is Carlos Andrade H, Computer Science Student at UNAM 🧑‍💻
+
+- 🚀 I’m currently learning and working in experimental rocketry.
+- ⭐ Interested in IA and Informatic Security.
+- 📫 How to reach me: Send me an email carlosandrade@ciencias.unam.mx
 <!--
 **carlosandradeh/carlosandradeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
